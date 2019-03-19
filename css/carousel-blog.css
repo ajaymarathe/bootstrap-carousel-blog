@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+body {
+  font-family: "Poppins", sans-serif;
+  background: #edf1f5 !important;
+}
+.footer{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.footer p{
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    .card .col-md-8, .col-md-4{
+        margin-bottom: 2rem !important;
+    }
+}
+
