@@ -1,10 +1,14 @@
 # bootstrap-carousel-blog
 Bootstrap Carousel-Blog template is a fully responsive template for Bootstrap lover's,  which include navbar, carousel, horizontal blog and team sections etc - Created by Bootcatch team.
 
+[![bootstrap carousel-blog](http://preview.bootcatch.com/bootstrap-carousel-blog/img/carousel_blog.png)](http://preview.bootcatch.com/bootstrap-carousel-blog/)
+
+
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
+* http://preview.bootcatch.com/bootstrap-carousel-blog/
 * http://bootcatch.com
 
 ## Usage
